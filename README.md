@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+So this is a new README file that will be use to describe yourself, more like a bio of yourself. 
+
+Cool cool..
