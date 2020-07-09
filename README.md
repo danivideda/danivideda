@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-So this is a new README file that will be use to describe yourself, more like a bio of yourself. 
+So this is a new README file that can be use to describe yourself or for your bio. 
 
 Cool cool..
