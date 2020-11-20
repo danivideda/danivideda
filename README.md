@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-So this is a new README file that can be use to describe yourself or for your bio. 
-
-Cool cool..
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danivideda&theme=gruvbox&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivideda&layout=compact&theme=gruvbox" />
+</p>
